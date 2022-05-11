@@ -12,6 +12,6 @@ The players are faced with a wheel of fortune(or misfortune), this wheel contain
 
 
 
-<a name="Chicken">## chicken</a> 
+## Chicken<a name="Chicken"></a> 
 
 
