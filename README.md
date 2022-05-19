@@ -16,3 +16,7 @@ The players are faced with a wheel of fortune(or misfortune), this wheel contain
 Each player starts with 3 Chickens/Lives these chickens can be used at the cost of one sip of your drink,
 
 
+
+## BUGS
+
+1. Fixed a bug where the player could press chicken without having an active user, this would cause the entire program to crash since it was trying to access a variable that does not excist. now the player must have atleast one user input before pressing chicken.
